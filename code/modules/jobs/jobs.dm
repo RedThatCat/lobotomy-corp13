@@ -192,6 +192,7 @@ GLOBAL_LIST_INIT(security_positions, list(
 	"Blade Lineage Cutthroat",
 	"Blade Lineage Salsu",
 	"Blade Lineage Ronin",
+	"Blade Lineage Roaming Salsu",
 
 	"Grand Inquisitor",
 	"N Corp Grosshammer",
